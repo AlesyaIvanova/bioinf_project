@@ -52,9 +52,13 @@ KDM8, a H3K36me2 histone demethylase that acts in the cyclin A1 coding region to
 
 Все последовательности похожи между собой, поэтому можно считать, что они кодируют один и тот же ген.
 
-## E-value
+## Поиск по протеомам
+
+Выбранные последовательности для каждого гистона находятся в соотвествующих файлах.
 
 Ноутбук: https://colab.research.google.com/drive/1WISS6PV_reE6yByARt0wuQfRYGhn-76L?usp=sharing
+
+## E-value
 
 |      | TUBERCULOSIS | THERMOCOCCUS |         HUMAN |        YEAST |         MOUSE |    C.ELEGANS | METHANOCALDOCOCCUS |     ZEBRAFISH |      CILIATE |       E.COLI |   DROSOPHILA |
 |-----:|-------------:|-------------:|--------------:|-------------:|--------------:|-------------:|-------------------:|--------------:|-------------:|-------------:|-------------:|
