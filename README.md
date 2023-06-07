@@ -26,19 +26,19 @@ KDM8, a H3K36me2 histone demethylase that acts in the cyclin A1 coding region to
 
 ### H2A
 
-![](H2A_alignment.png)
+![](H2A_alighment.png)
 
 ### H2B
 
-![](H2B_alignment.png)
+![](H2B_alighment.png)
 
 ### H3
 
-![](H3_alignment.png)
+![](H3_aligHment.png)
 
 ### H4
 
-![](H4_alignment.png)
+![](H4_aligHment.png)
 
 ## E-value
 
