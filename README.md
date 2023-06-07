@@ -54,6 +54,8 @@ KDM8, a H3K36me2 histone demethylase that acts in the cyclin A1 coding region to
 
 ## E-value
 
+Ноутбук: https://colab.research.google.com/drive/1WISS6PV_reE6yByARt0wuQfRYGhn-76L?usp=sharing
+
 |      | TUBERCULOSIS | THERMOCOCCUS |         HUMAN |        YEAST |         MOUSE |    C.ELEGANS | METHANOCALDOCOCCUS |     ZEBRAFISH |      CILIATE |       E.COLI |   DROSOPHILA |
 |-----:|-------------:|-------------:|--------------:|-------------:|--------------:|-------------:|-------------------:|--------------:|-------------:|-------------:|-------------:|
 |  H2A | 5.290000e-09 | 1.710000e-07 | 1.000000e-300 | 1.070000e-45 | 1.000000e-300 | 2.710000e-45 |              1.200 | 1.000000e-300 | 3.440000e-46 | 1.180000e-21 | 1.230000e-43 |
